@@ -1,5 +1,7 @@
 <h1 align="center">Hello World<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It's Rupinder</h1><h6>(She/her)</h6>
 <h3 align="center">A budding 🌱 Software Developer!!! </h3>
+<img align="right" alt="GIF" src="https://github.com/Rkaur2007/Rkaur2007/blob/main/code.gif" width="500" height="320" />
+
 <!--
 **Rkaur2007/Rkaur2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
