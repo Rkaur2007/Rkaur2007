@@ -13,7 +13,10 @@
 - 😄 Pronouns: She/ her
 - Check out my personal website @ <a href="https://users.encs.concordia.ca/~k_rupind/">https://users.encs.concordia.ca/~k_rupind/</a>
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Punjabi) and like to know more about different cultures.
-- <img align="left" alt="Rupinder's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkaur2007" />
+    <details>
+  <summary>Most used Languages</summary>
+ <img align="left" alt="Rupinder's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkaur2007" />
+  </details>
 <!--
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native and Azure
