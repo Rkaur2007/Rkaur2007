@@ -3,11 +3,11 @@
 <img align="right" alt="GIF" src="https://github.com/Rkaur2007/Rkaur2007/blob/main/code.gif" width="500" height="320" />
 
 - 🔭 I’m currently working on REMEMBRALL Android application.
-- 🌱 I’m currently brushing up my skills for android app development.
-- ✍ You can find my projects here <a href="https://github.com/Rkaur2007/" target="_blank">Github</a>
+- 🌱 I’m presently brushing up my skills for android app development.
+- ✍ You can find my projects here at <a href="https://github.com/Rkaur2007/" target="_blank">Github</a>
 - 📫 How to reach me: 
   <ul>
-    <li><a href="https://www.linkedin.com/in/rupinder-kaur-57381019a/" class="linkedin" target="_blank"><span>Rupinder_Kaur</span></a></li>
+    <li><a href="https://www.linkedin.com/in/rupinder-kaur-57381019a/" class="linkedin" target="_blank"><span>LinkedIn: Rupinder Kaur</span></a></li>
     <li><a href="mailto:rupinder88uiet@gmail.com">rupinder88uiet@gmail.com</a></li>
   </ul>
 - 😄 Pronouns: She/ her
