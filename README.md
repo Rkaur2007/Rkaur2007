@@ -4,10 +4,12 @@
 
 - 🔭 I’m currently working on REMEMBRALL Android application.
 - 🌱 I’m currently brushing up my skills for android app development.
-- ✍ You can find my projects here [portfolio]
--  I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- ✍ You can find my projects here <a href="https://github.com/Rkaur2007/" target="_blank">Github</a>
+- 📫 How to reach me: 
+  <ul>
+    <li><a href="https://www.linkedin.com/in/rupinder-kaur-57381019a/" class="linkedin" target="_blank"><span>Rupinder_Kaur</span></a></li>
+    <li><a href="mailto:rupinder88uiet@gmail.com">rupinder88uiet@gmail.com</a></li>
+  </ul>
 - 😄 Pronouns: She/ her
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Punjabi) and like to know more about different cultures.
 - <img align="left" alt="Rupinder's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkaur2007" />
