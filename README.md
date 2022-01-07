@@ -1,5 +1,5 @@
-<h1 align="center">Hello World<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It's Rupinder</h1><h4>(She/her)</h4>
-<h3 align="center">A budding Software Developer !!! </h3>
+<h1 align="center">Hello World<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It's Rupinder</h1><h6>(She/her)</h6>
+<h3 align="center">A budding 🌱 Software Developer!!! </h3>
 <!--
 **Rkaur2007/Rkaur2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on REMEMBRALL android application
 - 🌱 I’m currently brushing up my skills for android app development
 -  I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+-  I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/ her
