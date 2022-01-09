@@ -13,7 +13,8 @@
 - Check out my personal website @ <a href="https://users.encs.concordia.ca/~k_rupind/">https://users.encs.concordia.ca/~k_rupind/</a>
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Punjabi) and like to know more about different cultures.
 
-### Know more about me at : <a href=" https://www.linkedin.com/in/rupinder-kaur-57381019a/" target="_blank"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+### Know more about me at :
+<a href=" https://www.linkedin.com/in/rupinder-kaur-57381019a/" target="_blank"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <br>
     <details>
        <summary>Most used Languages</summary>
