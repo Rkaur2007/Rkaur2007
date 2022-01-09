@@ -26,6 +26,9 @@
 <img src = "https://camo.githubusercontent.com/adf3e91290a5b76dd3e45b9f8354979115d3e459b40ff4a6a4e404366dfe841c/68747470733a2f2f646c322e6d61637570646174652e636f6d2f696d616765732f69636f6e733235362f31363934352e706e673f643d31353139373731303331" width="40px"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png" width="40px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Buggie.svg" width="40px"/>
+ 
+ ### Know more about me at :
+<a href=" https://www.linkedin.com/in/rupinder-kaur-57381019a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   
   <details>
        <summary>Most used Languages</summary>
@@ -33,5 +36,4 @@
        <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </details>
     
-  ### Know more about me at :
-<a href=" https://www.linkedin.com/in/rupinder-kaur-57381019a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ 
