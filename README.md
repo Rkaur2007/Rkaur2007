@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Punjabi) and like to know more about different cultures.
 
 ### Know more about me at :
-<a href=" https://www.linkedin.com/in/rupinder-kaur-57381019a/" target="_blank"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href=" https://www.linkedin.com/in/rupinder-kaur-57381019a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <br>
     <details>
        <summary>Most used Languages</summary>
