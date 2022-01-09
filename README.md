@@ -7,27 +7,24 @@
 - ✍ You can find my projects here at <a href="https://github.com/Rkaur2007/" target="_blank">Github</a>
 - 📫 How to reach me: 
   <ul>
-    <li><a href="https://www.linkedin.com/in/rupinder-kaur-57381019a/" class="linkedin" target="_blank"><span>LinkedIn: Rupinder Kaur</span></a></li>
     <li><a href="mailto:rupinder88uiet@gmail.com">rupinder88uiet@gmail.com</a></li>
   </ul>
 - 😄 Pronouns: She/ her
 - Check out my personal website @ <a href="https://users.encs.concordia.ca/~k_rupind/">https://users.encs.concordia.ca/~k_rupind/</a>
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Punjabi) and like to know more about different cultures.
+
+### Know more about me at : <a href=" https://www.linkedin.com/in/rupinder-kaur-57381019a/" target="_blank"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<br>
     <details>
        <summary>Most used Languages</summary>
        <img align="left" alt="Rupinder's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkaur2007" />
     </details>
 <!--
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[][linkedin]
 
 <br />
 
