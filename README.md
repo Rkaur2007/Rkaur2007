@@ -12,14 +12,24 @@
 - 😄 Pronouns: She/ her
 - Check out my personal website @ <a href="https://users.encs.concordia.ca/~k_rupind/">https://users.encs.concordia.ca/~k_rupind/</a>
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Punjabi) and like to know more about different cultures.
+### Languages and Tools known:
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-### Know more about me at :
-<a href=" https://www.linkedin.com/in/rupinder-kaur-57381019a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<br>
+
+
     <details>
        <summary>Most used Languages</summary>
        <img align="left" alt="Rupinder's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkaur2007" />
+       <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </details>
+    
+  ### Know more about me at :
+<a href=" https://www.linkedin.com/in/rupinder-kaur-57381019a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!--
 
 
@@ -51,52 +61,19 @@
 <br />
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
-</details>
-
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
 
 
 
 
 
 
-
-<h1 align="center">Hi , I'm Avika</h1>
-
-
-
-## About Me:
-
-- I’m currently working on **[Fitness Tracker.](https://github.com/avikalohany99/MERN-Fitness-Tracker)**
-
-- I'm currently learning Mongodb and Node JS.
-
-- Always working on **Data Structures and Algorithms.**
-
-- Reach out to me at **avikalohany99@gmail.com.**
-
-- Fun fact **I watch anime and am an avid reader.**
   
 ## Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> 
+ 
+</a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
@@ -116,22 +93,7 @@
   <br/>
   <a href="https://github.com/avikalohany99/github-readme-stats"><img alt="Avika Lohany's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avikalohany99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 
 
-<br/>
-<br/>
 
-<a href="https://github.com/avikalohany99/github-readme-activity-graph"><img alt="Avika Lohany's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=avikalohany99&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/avika-lohany-0b4b851b5/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/AvikaLohany"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/avikalohany/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
--->
