@@ -17,11 +17,13 @@
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40px" />
 <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="40px"/ >
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40px" />
-<img src="https://img.icons8.com/color/48/000000/css3.png" width="40px"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40px"/> 
 <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="40px" />
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"  width="40px" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40px"  />
 <img src="https://techcrunch.com/wp-content/uploads/2020/10/image9.png" width="40px"/>
+ <img src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" width="40px"/>
+<img src = "https://camo.githubusercontent.com/adf3e91290a5b76dd3e45b9f8354979115d3e459b40ff4a6a4e404366dfe841c/68747470733a2f2f646c322e6d61637570646174652e636f6d2f696d616765732f69636f6e733235362f31363934352e706e673f643d31353139373731303331" width="40px"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png" width="40px" />
 
 
