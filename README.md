@@ -14,15 +14,15 @@
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Punjabi) and like to know more about different cultures.
 ### Languages and Tools known:
 <p align ="left">
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="26px" />
 <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="26px"/ >
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"  width="26px" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="26px"  />
-<img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="26px" />
+<img src="https://img.icons8.com/color/48/000000/firebase.png" width="26px" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="26px" />
 
-    <details>
+  <details>
        <summary>Most used Languages</summary>
        <img align="left" alt="Rupinder's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkaur2007" />
        <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
